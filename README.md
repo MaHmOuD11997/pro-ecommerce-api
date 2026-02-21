@@ -2,6 +2,8 @@
 
 A robust, production-ready RESTful API for an E-commerce platform built with Node.js, Express, and MongoDB. This project follows the MVC architecture and implements enterprise-level security and authentication practices.
 
+🌍 **Live API URL:** [https://pro-ecommerce-api.onrender.com](https://pro-ecommerce-api.onrender.com)
+
 ## 🚀 Features
 
 * **MVC Architecture:** Clean, scalable, and maintainable codebase.
